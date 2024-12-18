@@ -1,6 +1,6 @@
-repositorynaam
+cursor
 
-# Naam van opslagplaats
+# AI-cursor
 
 > Slaklijn
 
