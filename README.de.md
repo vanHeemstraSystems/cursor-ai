@@ -2,7 +2,7 @@ Cursor
 
 # KI-Cursor
 
-> Slugline
+> Cursor AI: Der AI-Code-Editor
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
@@ -10,9 +10,12 @@ Cursor
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
-Text
+Erstellen Sie Software schneller 
+· Frontier Intelligence
+. Cursor basiert auf einer Mischung aus speziell entwickelten Modellen und Spitzenmodellen und ist intelligent und schnell. 
+· Privat und sicher.
 
 ## 100 - Einführung
 
@@ -24,7 +27,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
-See [README.md](./300/README.md)
+Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
