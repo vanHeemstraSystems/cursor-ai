@@ -1,6 +1,6 @@
-儲存庫名稱
+游標
 
-# 儲存庫名稱
+# 人工智慧遊標
 
 > 斯拉格萊恩
 
@@ -10,11 +10,11 @@
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
-**Executive Summary**
+**執行摘要**
 
 文字
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
