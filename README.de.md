@@ -1,6 +1,6 @@
-Repository-Name
+Cursor
 
-# Repository-Name
+# KI-Cursor
 
 > Slugline
 
@@ -14,7 +14,7 @@ Repository-Name
 
 Text
 
-## 100 - Introduction
+## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
