@@ -2,7 +2,7 @@ cursor
 
 # Cursor de IA
 
-> línea de bala
+> Cursor AI: el editor de código AI
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
@@ -12,13 +12,16 @@ cursor
 
 **Resumen ejecutivo**
 
-Texto
+Cree software más rápido 
+· Inteligencia de Frontera
+. Impulsado por una combinación de modelos de vanguardia y diseñados específicamente, Cursor es inteligente y rápido. 
+· Privado y Seguro.
 
 ## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
