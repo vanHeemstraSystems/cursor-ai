@@ -10,7 +10,7 @@ Cursor
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Erstellen Sie Software schneller 
 · Frontier Intelligence
