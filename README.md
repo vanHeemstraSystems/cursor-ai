@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+cursor-ai
+# Cursor AI
 
 > Slugline
 
