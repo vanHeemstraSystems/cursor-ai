@@ -2,7 +2,7 @@
 
 # 人工智慧遊標
 
-> Slugline
+> 斯拉格萊恩
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
@@ -12,7 +12,7 @@
 
 **執行摘要**
 
-文字
+Text
 
 ## 100 - 簡介
 
