@@ -8,7 +8,7 @@ cursor
 -   [Glossarium](./GLOSSARY.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Referenties](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Samenvatting**
 
@@ -17,7 +17,7 @@ Bouw sneller software
 . Aangedreven door een mix van speciaal gebouwde en grensverleggende modellen, is Cursor slim en snel. 
 · Privé en veilig.
 
-## 100 - Introduction
+## 100 - Inleiding
 
 Zien[README.md](./100/README.md)
 
@@ -27,7 +27,7 @@ Zien[README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
-See [README.md](./300/README.md)
+Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
