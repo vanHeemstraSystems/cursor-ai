@@ -4,7 +4,7 @@ Repository-Name
 
 > Slugline
 
--   [Documentation](./DOCUMENTATION.md)
+-   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Referenzen](./REFERENCES.md)
@@ -14,7 +14,7 @@ Repository-Name
 
 Text
 
-## 100 - Einführung
+## 100 - Introduction
 
 Sehen[README.md](./100/README.md)
 
