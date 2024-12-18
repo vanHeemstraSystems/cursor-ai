@@ -6,22 +6,22 @@
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [圖片](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
-Build software faster 
-· Frontier Intelligence
-. Powered by a mix of purpose-built and frontier models, Cursor is smart and fast. 
-· Private and Secure.
+更快地建立軟體 
+· 前沿情報
+。 Cursor 由專門構建的前沿模型組合提供支持，智能且快速。 
+· 私密且安全。
 
 ## 100 - 簡介
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
