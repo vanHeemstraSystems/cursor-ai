@@ -1,4 +1,4 @@
-cursor-ai
+المؤشر
 
 # مؤشر الذكاء الاصطناعي
 
@@ -12,11 +12,11 @@ cursor-ai
 
 **ملخص تنفيذي**
 
-Text
+نص
 
-## 100 - Introduction
+## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
