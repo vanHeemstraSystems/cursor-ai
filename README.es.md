@@ -12,7 +12,7 @@ nombre-repositorio
 
 **Resumen ejecutivo**
 
-Text
+Texto
 
 ## 100 - Introducción
 
@@ -26,6 +26,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusión
+## 400 - Conclusion
 
 Ver[README.md](./400/README.md)
