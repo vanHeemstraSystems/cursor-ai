@@ -2,7 +2,7 @@ curseur-ai
 
 # Curseur IA
 
-> Slugline
+> Cursor AI : l'éditeur de code AI
 
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
@@ -12,7 +12,10 @@ curseur-ai
 
 **Résumé exécutif**
 
-Texte
+Créez des logiciels plus rapidement 
+· Renseignement frontalier
+. Propulsé par un mélange de modèles spécialement conçus et de pointe, Cursor est intelligent et rapide. 
+· Privé et sécurisé.
 
 ## 100 - Introduction
 
@@ -22,10 +25,10 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
