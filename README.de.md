@@ -16,7 +16,7 @@ Text
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
@@ -24,7 +24,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
-Sehen[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 – Fazit
 
