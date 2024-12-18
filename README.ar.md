@@ -1,24 +1,27 @@
 المؤشر
 
-# مؤشر الذكاء الاصطناعي
+# Cursor AI
 
-> سلوجلاين
+> المؤشر AI: محرر كود الذكاء الاصطناعي
 
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
--   [References](./REFERENCES.md)
+-   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
-نص
+بناء البرمجيات بشكل أسرع 
+· استخبارات الحدود
+. مدعومًا بمزيج من النماذج المصممة خصيصًا لهذا الغرض والنماذج الرائدة، يعد Cursor ذكيًا وسريعًا. 
+· خاص وآمن.
 
-## 100- مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
@@ -28,4 +31,4 @@
 
 ## 400 - الخاتمة
 
-يرى[README.md](./400/README.md)
+See [README.md](./400/README.md)
