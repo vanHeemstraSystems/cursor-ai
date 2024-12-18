@@ -1,10 +1,10 @@
-存储库名称
+光标
 
-# 存储库名称
+# 人工智能光标
 
 > 斯拉格莱恩
 
--   [文档](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [参考](./REFERENCES.md)
