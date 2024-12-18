@@ -12,11 +12,11 @@ cursor-ai
 
 **ملخص تنفيذي**
 
-نص
+Text
 
-## 100- مقدمة
+## 100 - Introduction
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
