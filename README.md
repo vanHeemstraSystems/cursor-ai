@@ -1,7 +1,7 @@
 cursor-ai
 # Cursor AI
 
-> Slugline
+> Cursor AI: The AI Code Editor
 
 - [Documentation](./DOCUMENTATION.md)
 - [Glossary](./GLOSSARY.md)
@@ -11,7 +11,10 @@ cursor-ai
 
 **Executive Summary**
 
-Text
+Build software faster 
+· Frontier Intelligence
+. Powered by a mix of purpose-built and frontier models, Cursor is smart and fast. 
+· Private and Secure.
 
 ## 100 - Introduction
 
