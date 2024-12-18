@@ -2,7 +2,7 @@
 
 # 人工智慧遊標
 
-> 斯拉格萊恩
+> Cursor AI：AI 程式碼編輯器
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
@@ -12,7 +12,10 @@
 
 **執行摘要**
 
-Text
+Build software faster 
+· Frontier Intelligence
+. Powered by a mix of purpose-built and frontier models, Cursor is smart and fast. 
+· Private and Secure.
 
 ## 100 - 簡介
 
